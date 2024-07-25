@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claudiu Leonard Drăgan - Avocat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
+        }
+        .services, .contact {
+            background-color: #fff;
+            margin: 20px 0;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Claudiu Leonard Drăgan - Avocat</h1>
+    <p>Respectarea drepturilor și libertăților civice este fundamentul democrației!</p>
+</header>
+
+<nav>
+    <div class="container">
+        <a href="#despre">Despre</a>
+        <a href="#servicii">Servicii</a>
+        <a href="#contact">Contact</a>
+    </div>
+</nav>
+
+<section id="despre" class="container">
+    <h2>Despre mine</h2>
+    <p>Sunt avocat în cadrul Baroului Brașov, cu o vastă experiență în diverse domenii juridice, incluzând dreptul penal, civil, comercial, și multe altele. Scopul meu este să asigur respectarea legii și protejarea drepturilor fiecărui client.</p>
+</section>
+
+<section id="servicii" class="services container">
+    <h2>Servicii oferite</h2>
+    <ul>
+        <li>Consultanță juridică gratuită pentru cazuri sociale</li>
+        <li>Asistență în probleme fiscale și imobiliare</li>
+        <li>Reprezentare în contencios administrativ</li>
+        <li>Apărare în cauze penale</li>
+        <li>Consiliere în probleme de familie și căsătorie</li>
+        <li>Consultanță pentru afaceri și societăți comerciale</li>
+        <li>Recuperare creanțe și executări silite</li>
+        <li>Redactare și atestare contracte</li>
+    </ul>
+</section>
+
+<section id="contact" class="contact container">
+    <h2>Contact</h2>
+    <p>Telefon: 0722 668 244</p>
+    <p>Email: <a href="mailto:cabinet.avocat.dragan@gmail.com">cabinet.avocat.dragan@gmail.com</a></p>
+    <p>Email: <a href="mailto:office@avocatdraganclaudiu.ro">office@avocatdraganclaudiu.ro</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Claudiu Leonard Drăgan. Toate drepturile rezervate.</p>
+</footer>
+
+</body>
+</html>
